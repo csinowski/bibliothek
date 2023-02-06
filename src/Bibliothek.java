@@ -59,6 +59,12 @@ public class Bibliothek {
         System.out.println(C.getDateiFormat());
         System.out.println(C.getOpenAccess());
 
+        Student Constantin = new Student();
+        Constantin.setECTS(133);
+        // Gesetzt werden kann auch (240, 138) - die Werte sind variabel
+        System.out.println(Constantin.getECTS()); // 138
+        System.out.println(Constantin.getVerbleibendeECTS(Constantin.getECTS()));
+
         //java.abgabe();
 
     }

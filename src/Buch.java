@@ -23,6 +23,7 @@ import java.util.List;
 public class Buch {
 
     public static String titel;
+    private static String subtitel;
 
     public String author;
 
@@ -48,6 +49,15 @@ public class Buch {
 
     public static String getTitel() {
         return Buch.titel;
+    }
+
+    public String setSubTitel(String subtitel) {
+        Buch.subtitel = subtitel;
+        return Buch.subtitel;
+    }
+
+    public static String getSubTitel() {
+        return Buch.subtitel;
     }
 
     public String setAuthor(String author) {

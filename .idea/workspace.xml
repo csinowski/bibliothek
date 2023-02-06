@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c703604-4bbb-4c7e-82c2-4f0bac32cd8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ausleihsystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bibliothek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Buch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eBook.java" afterDir="false" />
+    <list default="true" id="5c703604-4bbb-4c7e-82c2-4f0bac32cd8d" name="Changes" comment="Eingereichte Version, die Variable benutzerID wird mehreren Klassen übergeben. Als nächstes muss eine List, ArrayList, Map oder HashMap ermöglichen, erzeugte Buchinformationen zu speichern und abzulegen. Zudem sollte vermerkt werden, welche Bücher von einer Person ausgeliehen und gelesen wurde. Ein Student sollte vorab Vorschläge für benötigte Bücher in Kursen bekommen">
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bibliothek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bibliothek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -42,12 +41,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Bibliothek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bibliothek" />
@@ -71,6 +70,29 @@
       <option name="presentableId" value="Default" />
       <updated>1675238835566</updated>
     </task>
+    <task id="LOCAL-00001" summary="Eingereichte Version, die Variable benutzerID wird mehreren Klassen übergeben. Als nächstes muss eine List, ArrayList, Map oder HashMap ermöglichen, erzeugte Buchinformationen zu speichern und abzulegen. Zudem sollte vermerkt werden, welche Bücher von einer Person ausgeliehen und gelesen wurde. Ein Student sollte vorab Vorschläge für benötigte Bücher in Kursen bekommen">
+      <created>1675713371121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675713371121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Eingereichte Version, die Variable benutzerID wird mehreren Klassen übergeben. Als nächstes muss eine List, ArrayList, Map oder HashMap ermöglichen, erzeugte Buchinformationen zu speichern und abzulegen. Zudem sollte vermerkt werden, welche Bücher von einer Person ausgeliehen und gelesen wurde. Ein Student sollte vorab Vorschläge für benötigte Bücher in Kursen bekommen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eingereichte Version, die Variable benutzerID wird mehreren Klassen übergeben. Als nächstes muss eine List, ArrayList, Map oder HashMap ermöglichen, erzeugte Buchinformationen zu speichern und abzulegen. Zudem sollte vermerkt werden, welche Bücher von einer Person ausgeliehen und gelesen wurde. Ein Student sollte vorab Vorschläge für benötigte Bücher in Kursen bekommen" />
   </component>
 </project>
