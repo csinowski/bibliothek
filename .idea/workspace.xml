@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c703604-4bbb-4c7e-82c2-4f0bac32cd8d" name="Changes" comment="Eingereichte Version, die Variable benutzerID wird mehreren Klassen übergeben. Als nächstes muss eine List, ArrayList, Map oder HashMap ermöglichen, erzeugte Buchinformationen zu speichern und abzulegen. Zudem sollte vermerkt werden, welche Bücher von einer Person ausgeliehen und gelesen wurde. Ein Student sollte vorab Vorschläge für benötigte Bücher in Kursen bekommen">
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bibliothek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bibliothek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Buch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ausgabe">
+    <configuration name="Ausgabe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ausgabe" />
+      <module name="Ausleihsystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bibliothek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bibliothek" />
       <module name="Ausleihsystem" />
@@ -57,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ausgabe" />
         <item itemvalue="Application.Bibliothek" />
       </list>
     </recent_temporary>
@@ -77,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675713371121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Eingereichte Version, die Variable benutzerID wird mehreren Klassen übergeben. Als nächstes muss eine List, ArrayList, Map oder HashMap ermöglichen, erzeugte Buchinformationen zu speichern und abzulegen. Zudem sollte vermerkt werden, welche Bücher von einer Person ausgeliehen und gelesen wurde. Ein Student sollte vorab Vorschläge für benötigte Bücher in Kursen bekommen">
+      <created>1675717504874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675717504875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
